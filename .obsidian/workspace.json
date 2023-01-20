@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "a228b4358a5d6dfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fe2506bb2573d50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7a4be7484ff652a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Ivaria.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a1ee5d68e5dc1ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Mechanics/Naval Combat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4d78c6c2fe67da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "22f28cc2f70f30ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cdd4d7fa3e5beb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "189b711b13cedf8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14274d07b757d5e4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "417f2b18195d0f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7217af21060181a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b24a70bc5f188dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game Mechanics/Naval Combat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a199edf586ac36b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game Mechanics/Naval Combat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "903f2aa251be8a8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d83393db4f694d8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Mechanics/Naval Combat.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4cdd4d7fa3e5beb3",
+  "lastOpenFiles": [
+    "Main/Ivaria.md",
+    "Cities/The Open Sea/The Serpent Archipelago.md",
+    "Cities/The Open Sea/The Mainland.md",
+    "Cities/The Open Sea/The Duldrum.md",
+    "Factions/Political/Merkos.md",
+    "Factions/Political/The Severeign Reign of the Steward.md",
+    "Untitled.md",
+    "Factions/Pantheon/Melora.md",
+    "Factions/Merchant’s Guild.md",
+    "Characters/Reyndil Valhana.md"
+  ]
+}
