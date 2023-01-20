@@ -59,8 +59,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "siteinfo/README.md",
-                "mode": "source",
+                "file": "World Info/Main/Ivaria.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,16 +69,12 @@
             "id": "e683172091f9ec4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Notes/Session 0.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Session 0.md",
+                "file": "World Info/Main/Ivaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Session 0.md",
+                "file": "World Info/Main/Ivaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Session 0.md"
+                "file": "World Info/Main/Ivaria.md"
               }
             }
           },
@@ -195,13 +191,29 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "33e27c8962577d75",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1049e3adc7cdc74",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 454.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,20 +223,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e683172091f9ec4c",
+  "active": "05de6f2834eee26d",
   "lastOpenFiles": [
-    "siteinfo/Untitled.md",
     "siteinfo/README.md",
+    "DM Notes/Session 0.md",
+    "siteinfo/Untitled.md",
     "World Info/Cities/The Green Crescent/Untitled.md",
     "World Info/Cities/The Green Crescent/Brisbun.md",
     "World Info/Templates/NPC.md",
     "World Info/Game Mechanics/Naval Combat.md",
     "Templates/Image.png.md",
     "siteinfo/z_Assets/Ivaria.jpg",
-    "Image.png.md",
-    "World Info/Unknown/Petros.md"
+    "Image.png.md"
   ]
 }
