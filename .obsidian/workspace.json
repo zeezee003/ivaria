@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Mechanics/Naval Combat.md",
+                "file": "Main/Ivaria.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Mechanics/Naval Combat.md",
+                "file": "Main/Ivaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Mechanics/Naval Combat.md",
+                "file": "Main/Ivaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +140,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Mechanics/Naval Combat.md"
+                "file": "Main/Ivaria.md"
               }
+            }
+          },
+          {
+            "id": "ac69c5f7ab2ad5bb",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ]
@@ -158,20 +166,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4cdd4d7fa3e5beb3",
+  "active": "a1ee5d68e5dc1ba9",
   "lastOpenFiles": [
+    "Characters/Trajeon Willowfate.md",
     "Main/Ivaria.md",
+    "Cities/The Green Crescent/Aston.md",
+    "Main/World Map.canvas",
+    "Game Mechanics/Naval Combat.md",
     "Cities/The Open Sea/The Serpent Archipelago.md",
     "Cities/The Open Sea/The Mainland.md",
     "Cities/The Open Sea/The Duldrum.md",
     "Factions/Political/Merkos.md",
-    "Factions/Political/The Severeign Reign of the Steward.md",
-    "Untitled.md",
-    "Factions/Pantheon/Melora.md",
-    "Factions/Merchant’s Guild.md",
-    "Characters/Reyndil Valhana.md"
+    "Factions/Political/The Severeign Reign of the Steward.md"
   ]
 }

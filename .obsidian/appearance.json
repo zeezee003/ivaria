@@ -1,6 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#866dd9",
   "theme": "obsidian",
-  "cssTheme": "Everforest",
-  "baseFontSize": 13
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "ITS  AlternativeTheams"
+  ]
 }
