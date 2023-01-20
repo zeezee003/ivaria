@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Ivaria.md",
+                "file": "World Info/Main/Ivaria.md",
                 "mode": "preview",
                 "source": false
               },
@@ -25,16 +25,60 @@
             "id": "a1ee5d68e5dc1ba9",
             "type": "leaf",
             "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dab4a305efc17f0a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Ivaria.md",
+                "file": "World Info/Unknown/Petros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adf65c2f08fceb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Info/Cities/The Green Crescent/Brisbun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05de6f2834eee26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "siteinfo/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e683172091f9ec4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/Session 0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -100,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main/Ivaria.md",
+                "file": "DM Notes/Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Ivaria.md",
+                "file": "DM Notes/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Ivaria.md"
+                "file": "DM Notes/Session 0.md"
               }
             }
           },
@@ -170,17 +214,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a1ee5d68e5dc1ba9",
+  "active": "e683172091f9ec4c",
   "lastOpenFiles": [
-    "Characters/Trajeon Willowfate.md",
-    "Main/Ivaria.md",
-    "Cities/The Green Crescent/Aston.md",
-    "Main/World Map.canvas",
-    "Game Mechanics/Naval Combat.md",
-    "Cities/The Open Sea/The Serpent Archipelago.md",
-    "Cities/The Open Sea/The Mainland.md",
-    "Cities/The Open Sea/The Duldrum.md",
-    "Factions/Political/Merkos.md",
-    "Factions/Political/The Severeign Reign of the Steward.md"
+    "siteinfo/Untitled.md",
+    "siteinfo/README.md",
+    "World Info/Cities/The Green Crescent/Untitled.md",
+    "World Info/Cities/The Green Crescent/Brisbun.md",
+    "World Info/Templates/NPC.md",
+    "World Info/Game Mechanics/Naval Combat.md",
+    "Templates/Image.png.md",
+    "siteinfo/z_Assets/Ivaria.jpg",
+    "Image.png.md",
+    "World Info/Unknown/Petros.md"
   ]
 }
