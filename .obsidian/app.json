@@ -1,10 +1,11 @@
 {
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
-  "attachmentFolderPath": "z_Assets",
+  "readableLineLength": false,
+  "attachmentFolderPath": "siteinfo/z_Assets",
   "showLineNumber": true,
   "trashOption": "local",
   "newFileLocation": "current",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview"
 }

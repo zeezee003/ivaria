@@ -1,94 +1,39 @@
 {
   "main": {
-    "id": "a228b4358a5d6dfa",
+    "id": "e86a63c8cd5bef9f",
     "type": "split",
     "children": [
       {
-        "id": "6fe2506bb2573d50",
+        "id": "f3552d1052dbdb62",
         "type": "tabs",
         "children": [
           {
-            "id": "c7a4be7484ff652a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/Main/Ivaria.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a1ee5d68e5dc1ba9",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "dab4a305efc17f0a",
+            "id": "b70247ebf6ebc8ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Info/Unknown/Petros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adf65c2f08fceb40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/Cities/The Green Crescent/Brisbun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05de6f2834eee26d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Info/Main/Ivaria.md",
+                "file": "World Info/01 Main/02 Info on Ivaria.md",
                 "mode": "preview",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e683172091f9ec4c",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a4d78c6c2fe67da4",
+    "id": "dd718a82e971e10c",
     "type": "split",
     "children": [
       {
-        "id": "22f28cc2f70f30ea",
+        "id": "fe59ca5b53e1a958",
         "type": "tabs",
         "children": [
           {
-            "id": "4cdd4d7fa3e5beb3",
+            "id": "001c7ebad9d0fc06",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -98,7 +43,7 @@
             }
           },
           {
-            "id": "189b711b13cedf8a",
+            "id": "4d39d6b3bdc699be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -113,7 +58,7 @@
             }
           },
           {
-            "id": "14274d07b757d5e4",
+            "id": "56f0faa2602492a6",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -124,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272.5
   },
   "right": {
-    "id": "417f2b18195d0f0e",
+    "id": "28b5fc026aca239f",
     "type": "split",
     "children": [
       {
-        "id": "7217af21060181a0",
+        "id": "77ae8a59d5e5c602",
         "type": "tabs",
         "children": [
           {
-            "id": "3b24a70bc5f188dd",
+            "id": "f617d26caa55d909",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Info/Main/Ivaria.md",
+                "file": "World Info/01 Main/02 Info on Ivaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,19 +97,19 @@
             }
           },
           {
-            "id": "3a199edf586ac36b",
+            "id": "331346807e8d5a94",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Info/Main/Ivaria.md",
+                "file": "World Info/01 Main/02 Info on Ivaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "903f2aa251be8a8d",
+            "id": "89ea9409a7c9aa2a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,17 +120,17 @@
             }
           },
           {
-            "id": "d83393db4f694d8a",
+            "id": "43a6bf0d862d6de6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Info/Main/Ivaria.md"
+                "file": "World Info/01 Main/02 Info on Ivaria.md"
               }
             }
           },
           {
-            "id": "ac69c5f7ab2ad5bb",
+            "id": "3d9cb0e37439215f",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -193,52 +138,53 @@
             }
           },
           {
-            "id": "33e27c8962577d75",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "f1049e3adc7cdc74",
+            "id": "8293ce89ff1ae069",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "7ac486c992d35ae1",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 215.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "05de6f2834eee26d",
+  "active": "b70247ebf6ebc8ad",
   "lastOpenFiles": [
-    "siteinfo/README.md",
-    "DM Notes/Session 0.md",
-    "siteinfo/Untitled.md",
-    "World Info/Cities/The Green Crescent/Untitled.md",
-    "World Info/Cities/The Green Crescent/Brisbun.md",
-    "World Info/Templates/NPC.md",
-    "World Info/Game Mechanics/Naval Combat.md",
-    "Templates/Image.png.md",
-    "siteinfo/z_Assets/Ivaria.jpg",
-    "Image.png.md"
+    "World Info/01 Main/04 Timelined Histories.md",
+    "World Info/01 Main/02 Info on Ivaria.md",
+    "World Info/01 Main/03 World Map.md",
+    "World Info/Cities/The Green Crescent/Kingstown.md",
+    "World Info/01 Main/01 Start Here.md",
+    "World Info/01 Main/gill.md",
+    "World Info/Cities/The Mainland/Strawford.md",
+    "World Info/Cities/The Serpent Archipelago/Eastcliff.md",
+    "World Info/Cities/The Serpent Archipelago/Gillamoor.md",
+    "World Info/01 Main/thr.md"
   ]
 }
