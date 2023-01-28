@@ -1,0 +1,2587 @@
+{
+	"fileType": "items-sublist",
+	"siteVersion": "1.174.3",
+	"name": "mundane",
+	"saveId": "f2677eae-55f8-4774-b191-dc9e81ece763",
+	"items": [
+		{
+			"h": "abacus_phb",
+			"c": 1
+		},
+		{
+			"h": "acid%20(vial)_phb",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20ammunition_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20antimatter%20rifle_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20arrow_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20automatic%20pistol_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20automatic%20rifle_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20bar_wdh",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20battleaxe_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20blowgun_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20blowgun%20needle_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20club_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20crossbow%20bolt_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20dagger_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20dart_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20double-bladed%20scimitar_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20flail_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20glaive_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20greataxe_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20greatclub_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20greatsword_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20halberd_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20hand%20crossbow_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20handaxe_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20heavy%20crossbow_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20hooked%20shortspear_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20hoopak_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20hunting%20rifle_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20javelin_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20lance_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20laser%20pistol_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20laser%20rifle_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20light%20crossbow_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20light%20hammer_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20light%20repeating%20crossbow_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20longbow_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20longsword_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20mace_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20maul_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20modern%20bullet_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20morningstar_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20musket_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20pike_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20pistol_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20quarterstaff_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20rapier_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20renaissance%20bullet_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20revolver_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20scimitar_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20shortbow_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20shortsword_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20shotgun_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20sickle_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20sling_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20sling%20bullet_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20spear_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20trident_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20war%20pick_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20warhammer_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20weapon_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20whip_xge",
+			"c": 1
+		},
+		{
+			"h": "adamantine%20yklwa_xge",
+			"c": 1
+		},
+		{
+			"h": "adjustable%20stilts_wdh",
+			"c": 1
+		},
+		{
+			"h": "airship_dmg",
+			"c": 1
+		},
+		{
+			"h": "alchemist's%20doom_scc",
+			"c": 1
+		},
+		{
+			"h": "alchemist's%20fire%20(flask)_phb",
+			"c": 1
+		},
+		{
+			"h": "alchemist's%20supplies_phb",
+			"c": 1
+		},
+		{
+			"h": "ale%20(gallon)_phb",
+			"c": 1
+		},
+		{
+			"h": "ale%20(mug)_phb",
+			"c": 1
+		},
+		{
+			"h": "alexandrite_dmg",
+			"c": 1
+		},
+		{
+			"h": "amber_dmg",
+			"c": 1
+		},
+		{
+			"h": "amethyst_dmg",
+			"c": 1
+		},
+		{
+			"h": "amulet_phb",
+			"c": 1
+		},
+		{
+			"h": "antimatter%20rifle_dmg",
+			"c": 1
+		},
+		{
+			"h": "antitoxin%20(vial)_phb",
+			"c": 1
+		},
+		{
+			"h": "aquamarine_dmg",
+			"c": 1
+		},
+		{
+			"h": "arcane%20focus_phb",
+			"c": 1
+		},
+		{
+			"h": "arrow_phb",
+			"c": 1
+		},
+		{
+			"h": "arrows%20(20)_phb",
+			"c": 1
+		},
+		{
+			"h": "artisan's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "assassin's%20blood_dmg",
+			"c": 1
+		},
+		{
+			"h": "automatic%20pistol_dmg",
+			"c": 1
+		},
+		{
+			"h": "automatic%20rifle_dmg",
+			"c": 1
+		},
+		{
+			"h": "axe%20beak_idrotf",
+			"c": 1
+		},
+		{
+			"h": "azurite_dmg",
+			"c": 1
+		},
+		{
+			"h": "backpack_phb",
+			"c": 1
+		},
+		{
+			"h": "backpack%20parachute_wdh",
+			"c": 1
+		},
+		{
+			"h": "bagpipes_phb",
+			"c": 1
+		},
+		{
+			"h": "ball%20bearing_phb",
+			"c": 1
+		},
+		{
+			"h": "ball%20bearings%20(bag%20of%201%2c000)_phb",
+			"c": 1
+		},
+		{
+			"h": "banded%20agate_dmg",
+			"c": 1
+		},
+		{
+			"h": "barding_phb",
+			"c": 1
+		},
+		{
+			"h": "barking%20box_wdh",
+			"c": 1
+		},
+		{
+			"h": "barrel_phb",
+			"c": 1
+		},
+		{
+			"h": "basic%20poison%20(vial)_phb",
+			"c": 1
+		},
+		{
+			"h": "basket_phb",
+			"c": 1
+		},
+		{
+			"h": "battleaxe_phb",
+			"c": 1
+		},
+		{
+			"h": "bedroll_phb",
+			"c": 1
+		},
+		{
+			"h": "bejeweled%20ivory%20drinking%20horn%20with%20gold%20filigree_dmg",
+			"c": 1
+		},
+		{
+			"h": "bell_phb",
+			"c": 1
+		},
+		{
+			"h": "birdpipes_scag",
+			"c": 1
+		},
+		{
+			"h": "bit%20and%20bridle_phb",
+			"c": 1
+		},
+		{
+			"h": "biza's%20breath_jttrc",
+			"c": 1
+		},
+		{
+			"h": "black%20ghost%20orchid%20seed_jttrc",
+			"c": 1
+		},
+		{
+			"h": "black%20opal_dmg",
+			"c": 1
+		},
+		{
+			"h": "black%20pearl_dmg",
+			"c": 1
+		},
+		{
+			"h": "black%20sap_egw",
+			"c": 1
+		},
+		{
+			"h": "black%20sapphire_dmg",
+			"c": 1
+		},
+		{
+			"h": "black%20velvet%20mask%20stitched%20with%20silver%20thread_dmg",
+			"c": 1
+		},
+		{
+			"h": "blanket_phb",
+			"c": 1
+		},
+		{
+			"h": "blasting%20powder_egw",
+			"c": 1
+		},
+		{
+			"h": "blight%20ichor_egw",
+			"c": 1
+		},
+		{
+			"h": "block%20and%20tackle_phb",
+			"c": 1
+		},
+		{
+			"h": "bloodstone_dmg",
+			"c": 1
+		},
+		{
+			"h": "blowgun_phb",
+			"c": 1
+		},
+		{
+			"h": "blowgun%20needle_phb",
+			"c": 1
+		},
+		{
+			"h": "blowgun%20needles%20(50)_phb",
+			"c": 1
+		},
+		{
+			"h": "blue%20quartz_dmg",
+			"c": 1
+		},
+		{
+			"h": "blue%20sapphire_dmg",
+			"c": 1
+		},
+		{
+			"h": "blue%20spinel_dmg",
+			"c": 1
+		},
+		{
+			"h": "bomb_dmg",
+			"c": 1
+		},
+		{
+			"h": "book_phb",
+			"c": 1
+		},
+		{
+			"h": "bottle%20stopper%20cork%20embossed%20with%20gold%20leaf%20and%20set%20with%20amethysts_dmg",
+			"c": 1
+		},
+		{
+			"h": "box%20of%20turquoise%20animal%20figurines_dmg",
+			"c": 1
+		},
+		{
+			"h": "brass%20mug%20with%20jade%20inlay_dmg",
+			"c": 1
+		},
+		{
+			"h": "breastplate_phb",
+			"c": 1
+		},
+		{
+			"h": "breastplate%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "brewer's%20supplies_phb",
+			"c": 1
+		},
+		{
+			"h": "bronze%20crown_dmg",
+			"c": 1
+		},
+		{
+			"h": "bucket_phb",
+			"c": 1
+		},
+		{
+			"h": "bullseye%20lantern_phb",
+			"c": 1
+		},
+		{
+			"h": "burglar's%20pack_phb",
+			"c": 1
+		},
+		{
+			"h": "burnt%20othur%20fumes_dmg",
+			"c": 1
+		},
+		{
+			"h": "calligrapher's%20supplies_phb",
+			"c": 1
+		},
+		{
+			"h": "caltrop_phb",
+			"c": 1
+		},
+		{
+			"h": "caltrops%20(bag%20of%2020)_phb",
+			"c": 1
+		},
+		{
+			"h": "camel_phb",
+			"c": 1
+		},
+		{
+			"h": "candle_phb",
+			"c": 1
+		},
+		{
+			"h": "canoe_toa",
+			"c": 1
+		},
+		{
+			"h": "canvas%20(1%20sq.%20yd.)_phb",
+			"c": 1
+		},
+		{
+			"h": "carnelian_dmg",
+			"c": 1
+		},
+		{
+			"h": "carpenter's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "carriage_phb",
+			"c": 1
+		},
+		{
+			"h": "carrion%20crawler%20mucus_dmg",
+			"c": 1
+		},
+		{
+			"h": "cart_phb",
+			"c": 1
+		},
+		{
+			"h": "cartographer's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "carved%20bone%20statuette_dmg",
+			"c": 1
+		},
+		{
+			"h": "carved%20harp%20of%20exotic%20wood%20with%20ivory%20inlay%20and%20zircon%20gems_dmg",
+			"c": 1
+		},
+		{
+			"h": "carved%20ivory%20statuette_dmg",
+			"c": 1
+		},
+		{
+			"h": "catapult%20munition_scc",
+			"c": 1
+		},
+		{
+			"h": "ceremonial%20electrum%20dagger%20with%20a%20black%20pearl%20in%20the%20pommel_dmg",
+			"c": 1
+		},
+		{
+			"h": "chain%20(10%20feet)_phb",
+			"c": 1
+		},
+		{
+			"h": "chain%20mail_phb",
+			"c": 1
+		},
+		{
+			"h": "chain%20mail%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "chain%20shirt_phb",
+			"c": 1
+		},
+		{
+			"h": "chain%20shirt%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "chalcedony_dmg",
+			"c": 1
+		},
+		{
+			"h": "chalk%20(1%20piece)_phb",
+			"c": 1
+		},
+		{
+			"h": "chariot_phb",
+			"c": 1
+		},
+		{
+			"h": "chest_phb",
+			"c": 1
+		},
+		{
+			"h": "chicken_phb",
+			"c": 1
+		},
+		{
+			"h": "chrysoberyl_dmg",
+			"c": 1
+		},
+		{
+			"h": "chrysoprase_dmg",
+			"c": 1
+		},
+		{
+			"h": "chunk%20of%20meat_phb",
+			"c": 1
+		},
+		{
+			"h": "cinnamon_phb",
+			"c": 1
+		},
+		{
+			"h": "citrine_dmg",
+			"c": 1
+		},
+		{
+			"h": "climber's%20kit_phb",
+			"c": 1
+		},
+		{
+			"h": "cloth-of-gold%20vestments_dmg",
+			"c": 1
+		},
+		{
+			"h": "clothing%2c%20cold%20weather_idrotf",
+			"c": 1
+		},
+		{
+			"h": "cloves_phb",
+			"c": 1
+		},
+		{
+			"h": "club_phb",
+			"c": 1
+		},
+		{
+			"h": "cobbler's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "common%20clothes_phb",
+			"c": 1
+		},
+		{
+			"h": "common%20wine%20(pitcher)_phb",
+			"c": 1
+		},
+		{
+			"h": "component%20pouch_phb",
+			"c": 1
+		},
+		{
+			"h": "cook's%20utensils_phb",
+			"c": 1
+		},
+		{
+			"h": "copper_phb",
+			"c": 1
+		},
+		{
+			"h": "copper%20(cp)_phb",
+			"c": 1
+		},
+		{
+			"h": "copper%20alms-coin_ggr",
+			"c": 1
+		},
+		{
+			"h": "copper%20chalice%20with%20silver%20filigree_dmg",
+			"c": 1
+		},
+		{
+			"h": "copper%20zib_ggr",
+			"c": 1
+		},
+		{
+			"h": "coral_dmg",
+			"c": 1
+		},
+		{
+			"h": "costume%20clothes_phb",
+			"c": 1
+		},
+		{
+			"h": "cotton%20cloth%20(1%20sq.%20yd.)_phb",
+			"c": 1
+		},
+		{
+			"h": "cow_phb",
+			"c": 1
+		},
+		{
+			"h": "crampons_idrotf",
+			"c": 1
+		},
+		{
+			"h": "crossbow%20bolt_phb",
+			"c": 1
+		},
+		{
+			"h": "crossbow%20bolt%20case_phb",
+			"c": 1
+		},
+		{
+			"h": "crossbow%20bolts%20(20)_phb",
+			"c": 1
+		},
+		{
+			"h": "crowbar_phb",
+			"c": 1
+		},
+		{
+			"h": "crystal_phb",
+			"c": 1
+		},
+		{
+			"h": "dagger_phb",
+			"c": 1
+		},
+		{
+			"h": "dart_phb",
+			"c": 1
+		},
+		{
+			"h": "diamond_dmg",
+			"c": 1
+		},
+		{
+			"h": "dice%20set_phb",
+			"c": 1
+		},
+		{
+			"h": "diplomat's%20pack_phb",
+			"c": 1
+		},
+		{
+			"h": "disguise%20kit_phb",
+			"c": 1
+		},
+		{
+			"h": "dogsled_idrotf",
+			"c": 1
+		},
+		{
+			"h": "donkey_phb",
+			"c": 1
+		},
+		{
+			"h": "double-bladed%20scimitar_erlw",
+			"c": 1
+		},
+		{
+			"h": "draft%20horse_phb",
+			"c": 1
+		},
+		{
+			"h": "dragon_wdh",
+			"c": 1
+		},
+		{
+			"h": "dragon's%20blood_erlw",
+			"c": 1
+		},
+		{
+			"h": "dragonchess%20set_phb",
+			"c": 1
+		},
+		{
+			"h": "dreamlily_erlw",
+			"c": 1
+		},
+		{
+			"h": "drow%20poison_dmg",
+			"c": 1
+		},
+		{
+			"h": "druidic%20focus_phb",
+			"c": 1
+		},
+		{
+			"h": "drum_phb",
+			"c": 1
+		},
+		{
+			"h": "dulcimer_phb",
+			"c": 1
+		},
+		{
+			"h": "dungeoneer's%20pack_phb",
+			"c": 1
+		},
+		{
+			"h": "dynamite%20(stick)_dmg",
+			"c": 1
+		},
+		{
+			"h": "electrum%20(ep)_phb",
+			"c": 1
+		},
+		{
+			"h": "electrum%2050-zib%20coin_ggr",
+			"c": 1
+		},
+		{
+			"h": "elephant_phb",
+			"c": 1
+		},
+		{
+			"h": "elven%20trinket_mtf",
+			"c": 1
+		},
+		{
+			"h": "emblem_phb",
+			"c": 1
+		},
+		{
+			"h": "embroidered%20glove%20set%20with%20jewel%20chips_dmg",
+			"c": 1
+		},
+		{
+			"h": "embroidered%20silk%20and%20velvet%20mantle%20set%20with%20numerous%20moonstones_dmg",
+			"c": 1
+		},
+		{
+			"h": "embroidered%20silk%20handkerchief_dmg",
+			"c": 1
+		},
+		{
+			"h": "emerald_dmg",
+			"c": 1
+		},
+		{
+			"h": "energy%20cell_dmg",
+			"c": 1
+		},
+		{
+			"h": "entertainer's%20pack_phb",
+			"c": 1
+		},
+		{
+			"h": "essence%20of%20ether_dmg",
+			"c": 1
+		},
+		{
+			"h": "exotic%20saddle_phb",
+			"c": 1
+		},
+		{
+			"h": "explorer's%20pack_phb",
+			"c": 1
+		},
+		{
+			"h": "explosive%20seed_egw",
+			"c": 1
+		},
+		{
+			"h": "eye%20agate_dmg",
+			"c": 1
+		},
+		{
+			"h": "eye%20patch%20with%20a%20mock%20eye%20set%20in%20blue%20sapphire%20and%20moonstone_dmg",
+			"c": 1
+		},
+		{
+			"h": "fargab_dsotdq",
+			"c": 1
+		},
+		{
+			"h": "feed%20(per%20day)_phb",
+			"c": 1
+		},
+		{
+			"h": "feywild%20trinket_wbtw",
+			"c": 1
+		},
+		{
+			"h": "fine%20clothes_phb",
+			"c": 1
+		},
+		{
+			"h": "fine%20gold%20chain%20set%20with%20a%20fire%20opal_dmg",
+			"c": 1
+		},
+		{
+			"h": "fine%20wine%20(bottle)_phb",
+			"c": 1
+		},
+		{
+			"h": "fire%20opal_dmg",
+			"c": 1
+		},
+		{
+			"h": "fishing%20tackle_phb",
+			"c": 1
+		},
+		{
+			"h": "flail_phb",
+			"c": 1
+		},
+		{
+			"h": "flask_phb",
+			"c": 1
+		},
+		{
+			"h": "flensing%20claws_vgm",
+			"c": 1
+		},
+		{
+			"h": "flensing%20claws%20(huge)_vgm",
+			"c": 1
+		},
+		{
+			"h": "flensing%20claws%20(large)_vgm",
+			"c": 1
+		},
+		{
+			"h": "flensing%20claws%20(medium)_vgm",
+			"c": 1
+		},
+		{
+			"h": "flensing%20claws%20(small)_vgm",
+			"c": 1
+		},
+		{
+			"h": "flour_phb",
+			"c": 1
+		},
+		{
+			"h": "flute_phb",
+			"c": 1
+		},
+		{
+			"h": "forgery%20kit_phb",
+			"c": 1
+		},
+		{
+			"h": "fragmentation%20grenade_dmg",
+			"c": 1
+		},
+		{
+			"h": "galley_dmg",
+			"c": 1
+		},
+		{
+			"h": "gaming%20set_phb",
+			"c": 1
+		},
+		{
+			"h": "garnet_dmg",
+			"c": 1
+		},
+		{
+			"h": "ginger_phb",
+			"c": 1
+		},
+		{
+			"h": "glaive_phb",
+			"c": 1
+		},
+		{
+			"h": "glass%20bottle_phb",
+			"c": 1
+		},
+		{
+			"h": "glassblower's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "glaur_scag",
+			"c": 1
+		},
+		{
+			"h": "goat_phb",
+			"c": 1
+		},
+		{
+			"h": "gold_phb",
+			"c": 1
+		},
+		{
+			"h": "gold%20(gp)_phb",
+			"c": 1
+		},
+		{
+			"h": "gold%205-zino%20coin_ggr",
+			"c": 1
+		},
+		{
+			"h": "gold%20bird%20cage%20with%20electrum%20filigree_dmg",
+			"c": 1
+		},
+		{
+			"h": "gold%20circlet%20set%20with%20four%20aquamarines_dmg",
+			"c": 1
+		},
+		{
+			"h": "gold%20cup%20set%20with%20emeralds_dmg",
+			"c": 1
+		},
+		{
+			"h": "gold%20dragon%20comb%20set%20with%20red%20garnets%20as%20eyes_dmg",
+			"c": 1
+		},
+		{
+			"h": "gold%20jewelry%20box%20with%20platinum%20filigree_dmg",
+			"c": 1
+		},
+		{
+			"h": "gold%20locket%20with%20a%20painted%20portrait%20inside_dmg",
+			"c": 1
+		},
+		{
+			"h": "gold%20music%20box_dmg",
+			"c": 1
+		},
+		{
+			"h": "gold%20ring%20set%20with%20bloodstones_dmg",
+			"c": 1
+		},
+		{
+			"h": "gold%20zino_ggr",
+			"c": 1
+		},
+		{
+			"h": "grappling%20hook_phb",
+			"c": 1
+		},
+		{
+			"h": "greataxe_phb",
+			"c": 1
+		},
+		{
+			"h": "greatclub_phb",
+			"c": 1
+		},
+		{
+			"h": "greatsword_phb",
+			"c": 1
+		},
+		{
+			"h": "grenade%20launcher_dmg",
+			"c": 1
+		},
+		{
+			"h": "gunpowder%20horn_dmg",
+			"c": 1
+		},
+		{
+			"h": "gunpowder%20keg_dmg",
+			"c": 1
+		},
+		{
+			"h": "halberd_phb",
+			"c": 1
+		},
+		{
+			"h": "half%20plate%20armor_phb",
+			"c": 1
+		},
+		{
+			"h": "half%20plate%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "hammer_phb",
+			"c": 1
+		},
+		{
+			"h": "hand%20crossbow_phb",
+			"c": 1
+		},
+		{
+			"h": "hand%20drum_scag",
+			"c": 1
+		},
+		{
+			"h": "handaxe_phb",
+			"c": 1
+		},
+		{
+			"h": "harbor%20moon_wdh",
+			"c": 1
+		},
+		{
+			"h": "healer's%20kit_phb",
+			"c": 1
+		},
+		{
+			"h": "heavy%20crossbow_phb",
+			"c": 1
+		},
+		{
+			"h": "hematite_dmg",
+			"c": 1
+		},
+		{
+			"h": "hempen%20rope%20(50%20feet)_phb",
+			"c": 1
+		},
+		{
+			"h": "herbalism%20kit_phb",
+			"c": 1
+		},
+		{
+			"h": "hide%20armor_phb",
+			"c": 1
+		},
+		{
+			"h": "hide%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "holy%20symbol_phb",
+			"c": 1
+		},
+		{
+			"h": "holy%20water%20(flask)_phb",
+			"c": 1
+		},
+		{
+			"h": "hooded%20lantern_phb",
+			"c": 1
+		},
+		{
+			"h": "hooked%20shortspear_oota",
+			"c": 1
+		},
+		{
+			"h": "hoopak_dsotdq",
+			"c": 1
+		},
+		{
+			"h": "horn_phb",
+			"c": 1
+		},
+		{
+			"h": "horror%20trinket_vrgr",
+			"c": 1
+		},
+		{
+			"h": "hourglass_phb",
+			"c": 1
+		},
+		{
+			"h": "hunk%20of%20cheese_phb",
+			"c": 1
+		},
+		{
+			"h": "hunting%20rifle_dmg",
+			"c": 1
+		},
+		{
+			"h": "hunting%20trap_phb",
+			"c": 1
+		},
+		{
+			"h": "icewind%20dale%20trinket_idrotf",
+			"c": 1
+		},
+		{
+			"h": "ink%20(1-ounce%20bottle)_phb",
+			"c": 1
+		},
+		{
+			"h": "ink%20pen_phb",
+			"c": 1
+		},
+		{
+			"h": "insect%20repellent%20(block%20of%20incense)_toa",
+			"c": 1
+		},
+		{
+			"h": "insect%20repellent%20(greasy%20salve)_toa",
+			"c": 1
+		},
+		{
+			"h": "iron_phb",
+			"c": 1
+		},
+		{
+			"h": "iron%20pot_phb",
+			"c": 1
+		},
+		{
+			"h": "iron%20spike_phb",
+			"c": 1
+		},
+		{
+			"h": "iron%20spikes%20(10)_phb",
+			"c": 1
+		},
+		{
+			"h": "ivana's%20whisper_vrgr",
+			"c": 1
+		},
+		{
+			"h": "jacinth_dmg",
+			"c": 1
+		},
+		{
+			"h": "jade_dmg",
+			"c": 1
+		},
+		{
+			"h": "jade%20game%20board%20with%20solid%20gold%20playing%20pieces_dmg",
+			"c": 1
+		},
+		{
+			"h": "jasper_dmg",
+			"c": 1
+		},
+		{
+			"h": "javelin_phb",
+			"c": 1
+		},
+		{
+			"h": "jet_dmg",
+			"c": 1
+		},
+		{
+			"h": "jeweled%20anklet_dmg",
+			"c": 1
+		},
+		{
+			"h": "jeweled%20gold%20crown_dmg",
+			"c": 1
+		},
+		{
+			"h": "jeweled%20platinum%20ring_dmg",
+			"c": 1
+		},
+		{
+			"h": "jeweler's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "jug_phb",
+			"c": 1
+		},
+		{
+			"h": "keelboat_dmg",
+			"c": 1
+		},
+		{
+			"h": "ladder%20(10-foot)_phb",
+			"c": 1
+		},
+		{
+			"h": "lamp_phb",
+			"c": 1
+		},
+		{
+			"h": "lance_phb",
+			"c": 1
+		},
+		{
+			"h": "lapis%20lazuli_dmg",
+			"c": 1
+		},
+		{
+			"h": "large%20gold%20bracelet_dmg",
+			"c": 1
+		},
+		{
+			"h": "large%20well-made%20tapestry_dmg",
+			"c": 1
+		},
+		{
+			"h": "laser%20pistol_dmg",
+			"c": 1
+		},
+		{
+			"h": "laser%20rifle_dmg",
+			"c": 1
+		},
+		{
+			"h": "leather%20armor_phb",
+			"c": 1
+		},
+		{
+			"h": "leather%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "leatherworker's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "light%20crossbow_phb",
+			"c": 1
+		},
+		{
+			"h": "light%20hammer_phb",
+			"c": 1
+		},
+		{
+			"h": "light%20repeating%20crossbow_oota",
+			"c": 1
+		},
+		{
+			"h": "linen%20(1%20sq.%20yd.)_phb",
+			"c": 1
+		},
+		{
+			"h": "loaf%20of%20bread_phb",
+			"c": 1
+		},
+		{
+			"h": "lock_phb",
+			"c": 1
+		},
+		{
+			"h": "longbow_phb",
+			"c": 1
+		},
+		{
+			"h": "longhorn_scag",
+			"c": 1
+		},
+		{
+			"h": "longship_dmg",
+			"c": 1
+		},
+		{
+			"h": "longsword_phb",
+			"c": 1
+		},
+		{
+			"h": "lute_phb",
+			"c": 1
+		},
+		{
+			"h": "lyre_phb",
+			"c": 1
+		},
+		{
+			"h": "mace_phb",
+			"c": 1
+		},
+		{
+			"h": "magnifying%20glass_phb",
+			"c": 1
+		},
+		{
+			"h": "malachite_dmg",
+			"c": 1
+		},
+		{
+			"h": "malice_dmg",
+			"c": 1
+		},
+		{
+			"h": "manacles_phb",
+			"c": 1
+		},
+		{
+			"h": "map%20or%20scroll%20case_phb",
+			"c": 1
+		},
+		{
+			"h": "mason's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "mastiff_phb",
+			"c": 1
+		},
+		{
+			"h": "matchless%20pipe_wdh",
+			"c": 1
+		},
+		{
+			"h": "maul_phb",
+			"c": 1
+		},
+		{
+			"h": "menga%20leaves%20(1%20ounce)_toa",
+			"c": 1
+		},
+		{
+			"h": "merchant's%20scale_phb",
+			"c": 1
+		},
+		{
+			"h": "mess%20kit_phb",
+			"c": 1
+		},
+		{
+			"h": "midnight%20tears_dmg",
+			"c": 1
+		},
+		{
+			"h": "military%20saddle_phb",
+			"c": 1
+		},
+		{
+			"h": "miner's%20pick_phb",
+			"c": 1
+		},
+		{
+			"h": "modern%20bullet_dmg",
+			"c": 1
+		},
+		{
+			"h": "modern%20bullets%20(10)_dmg",
+			"c": 1
+		},
+		{
+			"h": "monster%20hunter's%20pack_vrgr",
+			"c": 1
+		},
+		{
+			"h": "moonstone_dmg",
+			"c": 1
+		},
+		{
+			"h": "moorbounder_egw",
+			"c": 1
+		},
+		{
+			"h": "morningstar_phb",
+			"c": 1
+		},
+		{
+			"h": "moss%20agate_dmg",
+			"c": 1
+		},
+		{
+			"h": "mule_phb",
+			"c": 1
+		},
+		{
+			"h": "murgaxor's%20elixir%20of%20life_scc",
+			"c": 1
+		},
+		{
+			"h": "muroosa%20balm_egw",
+			"c": 1
+		},
+		{
+			"h": "musical%20instrument_phb",
+			"c": 1
+		},
+		{
+			"h": "musical%20instrument_scag",
+			"c": 1
+		},
+		{
+			"h": "musket_dmg",
+			"c": 1
+		},
+		{
+			"h": "narycrash_dsotdq",
+			"c": 1
+		},
+		{
+			"h": "navigator's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "necklace%20string%20of%20small%20pink%20pearls_dmg",
+			"c": 1
+		},
+		{
+			"h": "net_phb",
+			"c": 1
+		},
+		{
+			"h": "nib_wdh",
+			"c": 1
+		},
+		{
+			"h": "nimblewright%20detector_wdh",
+			"c": 1
+		},
+		{
+			"h": "obsidian_dmg",
+			"c": 1
+		},
+		{
+			"h": "obsidian%20statuette%20with%20gold%20fittings%20and%20inlay_dmg",
+			"c": 1
+		},
+		{
+			"h": "oil%20(flask)_phb",
+			"c": 1
+		},
+		{
+			"h": "oil%20of%20taggit_dmg",
+			"c": 1
+		},
+		{
+			"h": "old%20masterpiece%20painting_dmg",
+			"c": 1
+		},
+		{
+			"h": "olisuba%20leaf_egw",
+			"c": 1
+		},
+		{
+			"h": "onyx_dmg",
+			"c": 1
+		},
+		{
+			"h": "opal_dmg",
+			"c": 1
+		},
+		{
+			"h": "orb_phb",
+			"c": 1
+		},
+		{
+			"h": "oversized%20longbow_wdh",
+			"c": 1
+		},
+		{
+			"h": "ox_phb",
+			"c": 1
+		},
+		{
+			"h": "pack%20saddle_phb",
+			"c": 1
+		},
+		{
+			"h": "padded%20armor_phb",
+			"c": 1
+		},
+		{
+			"h": "padded%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "painted%20gold%20child's%20sarcophagus_dmg",
+			"c": 1
+		},
+		{
+			"h": "painted%20gold%20war%20mask_dmg",
+			"c": 1
+		},
+		{
+			"h": "painter's%20supplies_phb",
+			"c": 1
+		},
+		{
+			"h": "pair%20of%20engraved%20bone%20dice_dmg",
+			"c": 1
+		},
+		{
+			"h": "pale%20tincture_dmg",
+			"c": 1
+		},
+		{
+			"h": "pan%20flute_phb",
+			"c": 1
+		},
+		{
+			"h": "paper%20(one%20sheet)_phb",
+			"c": 1
+		},
+		{
+			"h": "parchment%20(one%20sheet)_phb",
+			"c": 1
+		},
+		{
+			"h": "pearl_dmg",
+			"c": 1
+		},
+		{
+			"h": "pepper_phb",
+			"c": 1
+		},
+		{
+			"h": "perfume%20(vial)_phb",
+			"c": 1
+		},
+		{
+			"h": "peridot_dmg",
+			"c": 1
+		},
+		{
+			"h": "pig_phb",
+			"c": 1
+		},
+		{
+			"h": "pike_phb",
+			"c": 1
+		},
+		{
+			"h": "pistol_dmg",
+			"c": 1
+		},
+		{
+			"h": "pitcher_phb",
+			"c": 1
+		},
+		{
+			"h": "piton_phb",
+			"c": 1
+		},
+		{
+			"h": "plate%20armor_phb",
+			"c": 1
+		},
+		{
+			"h": "plate%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "platinum_phb",
+			"c": 1
+		},
+		{
+			"h": "platinum%20(pp)_phb",
+			"c": 1
+		},
+		{
+			"h": "platinum%2010-zino%20coin_ggr",
+			"c": 1
+		},
+		{
+			"h": "platinum%20100-zino%20coin_ggr",
+			"c": 1
+		},
+		{
+			"h": "platinum%20bracelet%20set%20with%20a%20sapphire_dmg",
+			"c": 1
+		},
+		{
+			"h": "playing%20card%20set_phb",
+			"c": 1
+		},
+		{
+			"h": "poisoner's%20kit_phb",
+			"c": 1
+		},
+		{
+			"h": "pole%20(10-foot)_phb",
+			"c": 1
+		},
+		{
+			"h": "pony_phb",
+			"c": 1
+		},
+		{
+			"h": "portable%20ram_phb",
+			"c": 1
+		},
+		{
+			"h": "potter's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "pouch_phb",
+			"c": 1
+		},
+		{
+			"h": "pride%20silk_egw",
+			"c": 1
+		},
+		{
+			"h": "pride%20silk%20outfit_egw",
+			"c": 1
+		},
+		{
+			"h": "priest's%20pack_phb",
+			"c": 1
+		},
+		{
+			"h": "purple%20worm%20poison_dmg",
+			"c": 1
+		},
+		{
+			"h": "quarterstaff_phb",
+			"c": 1
+		},
+		{
+			"h": "quartz_dmg",
+			"c": 1
+		},
+		{
+			"h": "quiver_phb",
+			"c": 1
+		},
+		{
+			"h": "rain%20catcher_toa",
+			"c": 1
+		},
+		{
+			"h": "rapier_phb",
+			"c": 1
+		},
+		{
+			"h": "rations%20(1%20day)_phb",
+			"c": 1
+		},
+		{
+			"h": "reliquary_phb",
+			"c": 1
+		},
+		{
+			"h": "renaissance%20bullet_dmg",
+			"c": 1
+		},
+		{
+			"h": "renaissance%20bullets%20(10)_dmg",
+			"c": 1
+		},
+		{
+			"h": "revolver_dmg",
+			"c": 1
+		},
+		{
+			"h": "rhodochrosite_dmg",
+			"c": 1
+		},
+		{
+			"h": "riding%20horse_phb",
+			"c": 1
+		},
+		{
+			"h": "riding%20saddle_phb",
+			"c": 1
+		},
+		{
+			"h": "ring%20mail_phb",
+			"c": 1
+		},
+		{
+			"h": "ring%20mail%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "robes_phb",
+			"c": 1
+		},
+		{
+			"h": "rod_phb",
+			"c": 1
+		},
+		{
+			"h": "rowboat_dmg",
+			"c": 1
+		},
+		{
+			"h": "ruby_dmg",
+			"c": 1
+		},
+		{
+			"h": "ryath%20root_toa",
+			"c": 1
+		},
+		{
+			"h": "sack_phb",
+			"c": 1
+		},
+		{
+			"h": "saddlebags_phb",
+			"c": 1
+		},
+		{
+			"h": "saffron_phb",
+			"c": 1
+		},
+		{
+			"h": "sailing%20ship_dmg",
+			"c": 1
+		},
+		{
+			"h": "salt_phb",
+			"c": 1
+		},
+		{
+			"h": "sardonyx_dmg",
+			"c": 1
+		},
+		{
+			"h": "scale%20mail_phb",
+			"c": 1
+		},
+		{
+			"h": "scale%20mail%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "scholar's%20pack_phb",
+			"c": 1
+		},
+		{
+			"h": "scimitar_phb",
+			"c": 1
+		},
+		{
+			"h": "sealing%20wax_phb",
+			"c": 1
+		},
+		{
+			"h": "serpent%20venom_dmg",
+			"c": 1
+		},
+		{
+			"h": "shard_wdh",
+			"c": 1
+		},
+		{
+			"h": "shawm_phb",
+			"c": 1
+		},
+		{
+			"h": "shawm_scag",
+			"c": 1
+		},
+		{
+			"h": "sheep_phb",
+			"c": 1
+		},
+		{
+			"h": "shield_phb",
+			"c": 1
+		},
+		{
+			"h": "shortbow_phb",
+			"c": 1
+		},
+		{
+			"h": "shortsword_phb",
+			"c": 1
+		},
+		{
+			"h": "shotgun_dmg",
+			"c": 1
+		},
+		{
+			"h": "shovel_phb",
+			"c": 1
+		},
+		{
+			"h": "sickle_phb",
+			"c": 1
+		},
+		{
+			"h": "signal%20whistle_phb",
+			"c": 1
+		},
+		{
+			"h": "signet%20ring_phb",
+			"c": 1
+		},
+		{
+			"h": "silk%20(1%20sq.%20yd.)_phb",
+			"c": 1
+		},
+		{
+			"h": "silk%20robe%20with%20gold%20embroidery_dmg",
+			"c": 1
+		},
+		{
+			"h": "silk%20rope%20(50%20feet)_phb",
+			"c": 1
+		},
+		{
+			"h": "silver_phb",
+			"c": 1
+		},
+		{
+			"h": "silver%20(sp)_phb",
+			"c": 1
+		},
+		{
+			"h": "silver%2025-zib%20coin_ggr",
+			"c": 1
+		},
+		{
+			"h": "silver%20and%20gold%20brooch_dmg",
+			"c": 1
+		},
+		{
+			"h": "silver%20chalice%20set%20with%20moonstones_dmg",
+			"c": 1
+		},
+		{
+			"h": "silver%20ewer_dmg",
+			"c": 1
+		},
+		{
+			"h": "silver%20necklace%20with%20a%20gemstone%20pendant_dmg",
+			"c": 1
+		},
+		{
+			"h": "silver-plated%20steel%20longsword%20with%20jet%20set%20in%20hilt_dmg",
+			"c": 1
+		},
+		{
+			"h": "silvered%20ammunition_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20antimatter%20rifle_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20arrow_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20automatic%20pistol_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20automatic%20rifle_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20battleaxe_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20blowgun_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20blowgun%20needle_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20club_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20crossbow%20bolt_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20dagger_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20dart_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20double-bladed%20scimitar_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20flail_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20glaive_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20greataxe_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20greatclub_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20greatsword_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20halberd_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20hand%20crossbow_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20handaxe_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20heavy%20crossbow_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20hooked%20shortspear_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20hoopak_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20hunting%20rifle_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20javelin_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20lance_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20laser%20pistol_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20laser%20rifle_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20light%20crossbow_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20light%20hammer_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20light%20repeating%20crossbow_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20longbow_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20longsword_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20mace_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20maul_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20modern%20bullet_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20morningstar_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20musket_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20pike_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20pistol_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20quarterstaff_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20rapier_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20renaissance%20bullet_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20revolver_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20scimitar_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20shortbow_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20shortsword_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20shotgun_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20sickle_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20sling_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20sling%20bullet_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20spear_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20trident_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20war%20pick_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20warhammer_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20weapon_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20whip_phb",
+			"c": 1
+		},
+		{
+			"h": "silvered%20yklwa_phb",
+			"c": 1
+		},
+		{
+			"h": "sinda%20berries%20(10)_toa",
+			"c": 1
+		},
+		{
+			"h": "skyship_egw",
+			"c": 1
+		},
+		{
+			"h": "sled_phb",
+			"c": 1
+		},
+		{
+			"h": "sled%20dog_idrotf",
+			"c": 1
+		},
+		{
+			"h": "sledgehammer_phb",
+			"c": 1
+		},
+		{
+			"h": "sling_phb",
+			"c": 1
+		},
+		{
+			"h": "sling%20bullet_phb",
+			"c": 1
+		},
+		{
+			"h": "sling%20bullets%20(20)_phb",
+			"c": 1
+		},
+		{
+			"h": "small%20gold%20bracelet_dmg",
+			"c": 1
+		},
+		{
+			"h": "small%20gold%20idol_dmg",
+			"c": 1
+		},
+		{
+			"h": "small%20gold%20statuette%20set%20with%20rubies_dmg",
+			"c": 1
+		},
+		{
+			"h": "small%20mirror%20set%20in%20a%20painted%20wooden%20frame_dmg",
+			"c": 1
+		},
+		{
+			"h": "smith's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "smoke%20grenade_dmg",
+			"c": 1
+		},
+		{
+			"h": "snowshoes_idrotf",
+			"c": 1
+		},
+		{
+			"h": "soap_phb",
+			"c": 1
+		},
+		{
+			"h": "songhorn_scag",
+			"c": 1
+		},
+		{
+			"h": "soothsalts_egw",
+			"c": 1
+		},
+		{
+			"h": "spear_phb",
+			"c": 1
+		},
+		{
+			"h": "spellbook_phb",
+			"c": 1
+		},
+		{
+			"h": "spiked%20armor_scag",
+			"c": 1
+		},
+		{
+			"h": "spiked%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "spinel_dmg",
+			"c": 1
+		},
+		{
+			"h": "splint%20armor_phb",
+			"c": 1
+		},
+		{
+			"h": "splint%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "sprig%20of%20mistletoe_phb",
+			"c": 1
+		},
+		{
+			"h": "spyglass_phb",
+			"c": 1
+		},
+		{
+			"h": "stabling%20(per%20day)_phb",
+			"c": 1
+		},
+		{
+			"h": "staff_phb",
+			"c": 1
+		},
+		{
+			"h": "star%20rose%20quartz_dmg",
+			"c": 1
+		},
+		{
+			"h": "star%20ruby_dmg",
+			"c": 1
+		},
+		{
+			"h": "star%20sapphire_dmg",
+			"c": 1
+		},
+		{
+			"h": "steel%20mirror_phb",
+			"c": 1
+		},
+		{
+			"h": "studded%20leather%20armor_phb",
+			"c": 1
+		},
+		{
+			"h": "studded%20leather%20barding_phb",
+			"c": 1
+		},
+		{
+			"h": "sun_wdh",
+			"c": 1
+		},
+		{
+			"h": "survival%20mantle_vgm",
+			"c": 1
+		},
+		{
+			"h": "tangler%20grenade_wdmm",
+			"c": 1
+		},
+		{
+			"h": "tankard_phb",
+			"c": 1
+		},
+		{
+			"h": "tantan_scag",
+			"c": 1
+		},
+		{
+			"h": "taol_wdh",
+			"c": 1
+		},
+		{
+			"h": "tej_toa",
+			"c": 1
+		},
+		{
+			"h": "the%20incantations%20of%20iriolarthas_idrotf",
+			"c": 1
+		},
+		{
+			"h": "theki%20root_egw",
+			"c": 1
+		},
+		{
+			"h": "thelarr_scag",
+			"c": 1
+		},
+		{
+			"h": "thieves'%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "three-dragon%20ante%20set_phb",
+			"c": 1
+		},
+		{
+			"h": "tiger%20eye_dmg",
+			"c": 1
+		},
+		{
+			"h": "tinderbox_phb",
+			"c": 1
+		},
+		{
+			"h": "tinker's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "tocken_scag",
+			"c": 1
+		},
+		{
+			"h": "tome%20of%20strahd_cos",
+			"c": 1
+		},
+		{
+			"h": "topaz_dmg",
+			"c": 1
+		},
+		{
+			"h": "torch_phb",
+			"c": 1
+		},
+		{
+			"h": "torpor_dmg",
+			"c": 1
+		},
+		{
+			"h": "totem_phb",
+			"c": 1
+		},
+		{
+			"h": "tourmaline_dmg",
+			"c": 1
+		},
+		{
+			"h": "traveler's%20clothes_phb",
+			"c": 1
+		},
+		{
+			"h": "trident_phb",
+			"c": 1
+		},
+		{
+			"h": "trinket_cos",
+			"c": 1
+		},
+		{
+			"h": "trinket_eet",
+			"c": 1
+		},
+		{
+			"h": "trinket_phb",
+			"c": 1
+		},
+		{
+			"h": "truth%20serum_dmg",
+			"c": 1
+		},
+		{
+			"h": "turquoise_dmg",
+			"c": 1
+		},
+		{
+			"h": "two-person%20tent_phb",
+			"c": 1
+		},
+		{
+			"h": "vial_phb",
+			"c": 1
+		},
+		{
+			"h": "vial%20of%20stardust_wdmm",
+			"c": 1
+		},
+		{
+			"h": "viol_phb",
+			"c": 1
+		},
+		{
+			"h": "wagon_phb",
+			"c": 1
+		},
+		{
+			"h": "wand_phb",
+			"c": 1
+		},
+		{
+			"h": "war%20pick_phb",
+			"c": 1
+		},
+		{
+			"h": "wargong_scag",
+			"c": 1
+		},
+		{
+			"h": "warhammer_phb",
+			"c": 1
+		},
+		{
+			"h": "warhorse_phb",
+			"c": 1
+		},
+		{
+			"h": "warship_dmg",
+			"c": 1
+		},
+		{
+			"h": "waterskin_phb",
+			"c": 1
+		},
+		{
+			"h": "weaver's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "wheat_phb",
+			"c": 1
+		},
+		{
+			"h": "whetstone_phb",
+			"c": 1
+		},
+		{
+			"h": "whip_phb",
+			"c": 1
+		},
+		{
+			"h": "white%20ghost%20orchid%20seed_jttrc",
+			"c": 1
+		},
+		{
+			"h": "wildroot_toa",
+			"c": 1
+		},
+		{
+			"h": "willowshade%20oil_egw",
+			"c": 1
+		},
+		{
+			"h": "woodcarver's%20tools_phb",
+			"c": 1
+		},
+		{
+			"h": "wooden%20staff_phb",
+			"c": 1
+		},
+		{
+			"h": "wukka%20nut_toa",
+			"c": 1
+		},
+		{
+			"h": "wyvern%20poison_dmg",
+			"c": 1
+		},
+		{
+			"h": "yahcha_toa",
+			"c": 1
+		},
+		{
+			"h": "yarting_scag",
+			"c": 1
+		},
+		{
+			"h": "yellow%20sapphire_dmg",
+			"c": 1
+		},
+		{
+			"h": "yew%20wand_phb",
+			"c": 1
+		},
+		{
+			"h": "yklwa_toa",
+			"c": 1
+		},
+		{
+			"h": "zabou_toa",
+			"c": 1
+		},
+		{
+			"h": "zircon_dmg",
+			"c": 1
+		},
+		{
+			"h": "zulkoon_scag",
+			"c": 1
+		}
+	],
+	"sources": [
+		"PHB",
+		"XGE",
+		"WDH",
+		"DMG",
+		"SCC",
+		"IDRotF",
+		"SCAG",
+		"JttRC",
+		"EGW",
+		"ToA",
+		"GGR",
+		"ERLW",
+		"MTF",
+		"DSotDQ",
+		"WBtW",
+		"VGM",
+		"OotA",
+		"VRGR",
+		"WDMM",
+		"CoS",
+		"EET"
+	]
+}

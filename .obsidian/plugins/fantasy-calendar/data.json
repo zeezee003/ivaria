@@ -1,12 +1,185 @@
 {
   "addToDefaultIfMissing": true,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Ivaria Calendar",
+      "description": "The Ivarian Calendar",
+      "id": null,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Firstday",
+            "id": "ID_098a49ba9a4a"
+          },
+          {
+            "type": "day",
+            "name": "Towerday",
+            "id": "ID_4819196bb8ba"
+          },
+          {
+            "type": "day",
+            "name": "Wineday",
+            "id": "ID_fb4bf8e89988"
+          },
+          {
+            "type": "day",
+            "name": "Thunderday",
+            "id": "ID_eabb59e9697a"
+          },
+          {
+            "type": "day",
+            "name": "Sworday",
+            "id": "ID_281bb87a79e9"
+          },
+          {
+            "type": "day",
+            "name": "Saintsday",
+            "id": "ID_3aa86a9b2b6a"
+          },
+          {
+            "type": "day",
+            "name": "Pipesday",
+            "id": "ID_3b3a7b2b58ca"
+          },
+          {
+            "type": "day",
+            "name": "Annsday",
+            "id": "ID_780b0b39d99b"
+          },
+          {
+            "type": "day",
+            "name": "Feastday",
+            "id": "ID_a9fb081a696b"
+          },
+          {
+            "type": "day",
+            "name": "Restday",
+            "id": "ID_28e90a08ba09"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Frostmoot",
+            "length": 60,
+            "id": "ID_da89ba583b08"
+          },
+          {
+            "type": "month",
+            "name": "Rainmoot",
+            "length": 31,
+            "id": "ID_5be83a19da88"
+          },
+          {
+            "type": "month",
+            "name": "Firemoot",
+            "length": 70,
+            "id": "ID_b97a186b28da"
+          },
+          {
+            "type": "month",
+            "name": "Fellnight",
+            "length": 25,
+            "id": "ID_58b849f9892b"
+          },
+          {
+            "type": "month",
+            "name": "The Plenty",
+            "length": 30,
+            "id": "ID_0838383beac9"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Lrya",
+            "cycle": 12,
+            "offset": 5,
+            "faceColor": "#d400ff",
+            "shadowColor": "#000",
+            "id": "ID_89eb8988c869"
+          },
+          {
+            "name": "Ayla",
+            "cycle": 20,
+            "offset": 1,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_6b7b3a58ab5b"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "useCustomYears": false,
+        "years": []
+      },
+      "current": {
+        "year": 8364,
+        "month": 2,
+        "day": 15
+      },
+      "events": [],
+      "categories": [
+        {
+          "id": "ID_da3bb96ac91b",
+          "color": "#fa0000",
+          "name": "War"
+        },
+        {
+          "id": "ID_b8584918b99a",
+          "color": "#3500f5",
+          "name": "Festival"
+        },
+        {
+          "id": "ID_db0b4bda7a09",
+          "color": "#a5ffe4",
+          "name": "Natural Event"
+        },
+        {
+          "id": "ID_9ac8a90a8be8",
+          "color": "#ff600a",
+          "name": "Political Event"
+        },
+        {
+          "id": "ID_bb9bc9f94acb",
+          "color": "#d129af",
+          "name": "Age of Heros"
+        },
+        {
+          "id": "ID_ca4beb2b3b28",
+          "color": "#6ee261",
+          "name": "Age of Plenty"
+        },
+        {
+          "id": "ID_29b859caa90b",
+          "color": "#6ded93",
+          "name": "Age of Non"
+        },
+        {
+          "id": "ID_aaab39a91a78",
+          "color": "#f4cb8d",
+          "name": "Age of Men"
+        }
+      ],
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline",
+      "displayWeeks": false
+    }
+  ],
   "configDirectory": null,
   "currentCalendar": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
   "defaultCalendar": null,
-  "eventPreview": false,
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
@@ -15,9 +188,9 @@
   "eventFrontmatter": false,
   "parseDates": false,
   "settingsToggleState": {
-    "calendars": false,
+    "calendars": true,
     "events": false,
-    "advanced": true
+    "advanced": false
   },
   "showIntercalary": false,
   "version": {

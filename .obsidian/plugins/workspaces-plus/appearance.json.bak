@@ -1,0 +1,11 @@
+{
+  "accentColor": "#866dd9",
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "ITS  AlternativeTheams",
+    "Iterative Rainbow Folder Icons",
+    "Iterative Rainbow Folder Titles"
+  ]
+}

@@ -1,9 +1,13 @@
 {
   "accentColor": "#866dd9",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "ITS Theme",
   "baseFontSize": 13,
   "enabledCssSnippets": [
-    "ITS  AlternativeTheams"
+    "ITS  AlternativeTheams",
+    "Iterative Rainbow Folder Icons",
+    "weatherGenerator",
+    "weatherGeneratorVertical",
+    "Iterative Rainbow Folder Titles"
   ]
 }

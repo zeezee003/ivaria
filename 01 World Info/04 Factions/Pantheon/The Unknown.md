@@ -1,0 +1,1 @@
+The Unknown is that which brought about the Great Awakening of the Ideals. No one know who or what this is, or event if it has being. It is called by many names throughout history. God, Fate, Chance, or The Unknown.

@@ -28,7 +28,7 @@
     },
     {
       "id": "ivaria-world-map",
-      "lastAccessed": 1674280049673,
+      "lastAccessed": 1674876896310,
       "markers": [
         {
           "id": "ID_08082808eaab",
@@ -51,14 +51,17 @@
           "id": "ID_08bb785a5839",
           "type": "village",
           "loc": [
-            440.53173828125,
-            229.2890625
+            980.004003159803,
+            529.7133356321065
           ],
           "link": "Jedburgh",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.517298179328229,
+            -1.276046879114327
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -68,14 +71,17 @@
           "id": "ID_9b68da1aea49",
           "type": "village",
           "loc": [
-            391,
-            161.375
+            878.9950585733919,
+            373.0121592280768
           ],
           "link": "Bromwich",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.3642696867461688,
+            -1.1445248158507708
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -85,14 +91,17 @@
           "id": "ID_d8c8fa3919a9",
           "type": "village",
           "loc": [
-            392.32373046875,
-            76.8544921875
+            873.0866394560646,
+            174.1179699534107
           ],
           "link": "Thropes",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.17003708003262763,
+            -1.1368315617917508
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -102,14 +111,17 @@
           "id": "ID_f8f84b280be8",
           "type": "village",
           "loc": [
-            393.189453125,
-            30.6259765625
+            885.730742451484,
+            78.21152504033485
           ],
           "link": "Lundy",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.076378442422202,
+            -1.1532952375670364
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -119,16 +131,16 @@
           "id": "ID_5b79d86998da",
           "type": "town4",
           "loc": [
-            501.5,
-            127.5
+            1127.386179722115,
+            287.70225858417103
           ],
           "link": "Holbeck",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.062255859375,
-            -0.3264973958333333
+            0.2809592368986045,
+            -1.4679507548465038
           ],
           "description": null,
           "minZoom": null,
@@ -139,14 +151,17 @@
           "id": "ID_9baad86ba81b",
           "type": "village",
           "loc": [
-            492.6591796875,
-            284.1171875
+            1111.5351061169229,
+            663.3644659008332
           ],
           "link": "Clacton",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.6478168612312825,
+            -1.4473113360897434
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -156,14 +171,17 @@
           "id": "ID_b93bc91b3b9a",
           "type": "village",
           "loc": [
-            457.505859375,
-            404.8759765625
+            1025.5531162924408,
+            921.8740031989842
           ],
           "link": "Middlesbrough",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.900267581249008,
+            -1.335355620172449
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -173,13 +191,17 @@
           "id": "ID_db793b3bd96b",
           "type": "town3",
           "loc": [
-            488.482421875,
-            472.396484375
+            1098.0866594451606,
+            1077.4685648643353
           ],
+          "link": "Vork",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.0522153953753275,
+            -1.4298003378192197
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -189,14 +211,17 @@
           "id": "ID_2b986b3af9a8",
           "type": "village",
           "loc": [
-            419.375,
-            580.75
+            946.5308446247566,
+            1332.6210066919284
           ],
           "link": "Strathmore",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.3013877018475863,
+            -1.2324620372718185
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -206,14 +231,17 @@
           "id": "ID_4b5bebd9998b",
           "type": "village",
           "loc": [
-            368.25439453125,
-            560.13671875
+            829.8295699155254,
+            1282.991687638792
           ],
           "link": "Eastcliff",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.2529215699597578,
+            -1.0805072524941737
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -223,14 +251,17 @@
           "id": "ID_78f8884ab9ea",
           "type": "village",
           "loc": [
-            337.6708984375,
-            642.6826171875
+            758.0980747448757,
+            1473.486453545353
           ],
           "link": "Westcliff",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.4389516147903838,
+            -0.9871068681573902
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -240,16 +271,16 @@
           "id": "ID_7abac839796a",
           "type": "town5",
           "loc": [
-            324.5,
-            554
+            719.4812741080324,
+            1268.7217846351098
           ],
           "link": "Gillamoor",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.2705078125,
-            -0.21126302083333334
+            1.2389861178077244,
+            -0.9368245756615005
           ],
           "description": null,
           "minZoom": null,
@@ -260,14 +291,17 @@
           "id": "ID_a8f9d928183a",
           "type": "village",
           "loc": [
-            337.9736328125,
-            451.6875
+            769.5529542434333,
+            1038.4395235116713
           ],
           "link": "Fallkrik",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.0141010971793665,
+            -1.0020220758378038
+          ],
           "description": "small village",
           "minZoom": null,
           "maxZoom": null,
@@ -277,14 +311,17 @@
           "id": "ID_9b8abada089b",
           "type": "town3",
           "loc": [
-            350.248046875,
-            378.50830078125
+            785.3128285898395,
+            862.6748557892349
           ],
           "link": "Mirstone",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.8424559138566747,
+            -1.0225427455596867
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -294,14 +331,17 @@
           "id": "ID_585849196b4b",
           "type": "village",
           "loc": [
-            365.197265625,
-            284.375
+            815.3478636768065,
+            640.1545647906033
           ],
           "link": "Strawford",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.6251509421783236,
+            -1.0616508641625084
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -311,14 +351,17 @@
           "id": "ID_3a5a6a5b085a",
           "type": "town5",
           "loc": [
-            354.947265625,
-            221.625
+            791.827234243061,
+            505.60771280023914
           ],
           "link": "Mirefield",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.49375753203148354,
+            -1.031025044587319
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -328,14 +371,17 @@
           "id": "ID_49584a09e939",
           "type": "village",
           "loc": [
-            301.7783203125,
-            140.462890625
+            680.1046261329507,
+            326.523605947939
           ],
           "link": "Firebend",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.3188707089335342,
+            -0.8855528986106128
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -345,14 +391,17 @@
           "id": "ID_19fad9384939",
           "type": "town1",
           "loc": [
-            258.2998046875,
-            86.6435546875
+            587.3434894217246,
+            195.70103241542836
           ],
           "link": "Lingmell",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.19111428946819176,
+            -0.7647701685178706
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -362,14 +411,17 @@
           "id": "ID_08f8aa29f888",
           "type": "village",
           "loc": [
-            225.2705078125,
-            214.4189453125
+            504.84285823931464,
+            491.0375403755388
           ],
           "link": "Kingstown",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.4795288480229871,
+            -0.6573474716657742
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -379,14 +431,17 @@
           "id": "ID_f87808283a2b",
           "type": "town1",
           "loc": [
-            229.4716796875,
-            106.4833984375
+            527.7233068129401,
+            257.39289724862545
           ],
           "link": "Porthcawl",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.2513602512193608,
+            -0.6871397224126824
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -396,14 +451,17 @@
           "id": "ID_49787afa2989",
           "type": "town1",
           "loc": [
-            179.4716796875,
-            55.4833984375
+            404.6355740601349,
+            131.06268607326234
           ],
           "link": "Queenstown",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.12799090436842026,
+            -0.5268692370574674
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -413,13 +471,17 @@
           "id": "ID_c92bcbe9f83b",
           "type": "stronghold",
           "loc": [
-            67.2666015625,
-            415.7021484375
+            314.9529624526957,
+            930.3542612311328
           ],
+          "link": "Filnburg",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.9085490832335281,
+            -0.4100950031936142
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -429,14 +491,17 @@
           "id": "ID_ba68c9c9cb39",
           "type": "stronghold",
           "loc": [
-            69.75,
-            416
+            155.6934727056523,
+            951.494685355651
           ],
           "link": "Lesa",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.9291940286676279,
+            -0.2027258759188181
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -446,14 +511,17 @@
           "id": "ID_6b388b2a28aa",
           "type": "stronghold",
           "loc": [
-            157.228515625,
-            470.1875
+            360.8543710430936,
+            1074.9035094241046
           ],
           "link": "Brisbun",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.0497104584219772,
+            -0.4698624622956948
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -463,14 +531,17 @@
           "id": "ID_49d90ae819db",
           "type": "town1",
           "loc": [
-            9.447265625,
-            589.375
+            8.419797414326581,
+            1337.715508570995
           ],
           "link": "Aston",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.3063628013388624,
+            -0.010963277883237735
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -480,14 +551,17 @@
           "id": "ID_2a8a68da0bd8",
           "type": "fort",
           "loc": [
-            209.197265625,
-            537.375
+            468.90396383774157,
+            1219.5298026929431
           ],
           "link": "Enstin",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.1909470729423273,
+            -0.6105520362470593
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -497,14 +571,17 @@
           "id": "ID_f97849f8b96a",
           "type": "town1",
           "loc": [
-            94.98046875,
-            597.564453125
+            201.879938927971,
+            1365.7959332656606
           ],
           "link": "Lullin",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.3337850910797466,
+            -0.26286450381246224
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -514,14 +591,17 @@
           "id": "ID_ab9b688bc89a",
           "type": "stronghold",
           "loc": [
-            56.23046875,
-            654.064453125
+            112.2735472695581,
+            1486.3138841525697
           ],
           "link": "Farfast",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.4514784024927438,
+            -0.14618951467390376
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -531,14 +611,17 @@
           "id": "ID_d8da99abbbc9",
           "type": "fort",
           "loc": [
-            269.39453125,
-            533.25
+            612.3207503754059,
+            1225.5965662435992
           ],
           "link": "Strathe",
           "layer": "%5B%5BIvaira.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            1.1968716467222649,
+            -0.7972926437179764
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -548,7 +631,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "World Info/01 Main/03 World Map.md"
+        "01 World Info/01 Main/03 World Map.md"
       ]
     }
   ],
@@ -1920,6 +2003,39 @@
         "cleric",
         "civilization"
       ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Party",
+      "iconName": "people-carry",
+      "color": "#0091c2",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "the party",
+        "pc"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Monster",
+      "iconName": "bacteria",
+      "color": "#f00000",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
       "minZoom": null,
       "maxZoom": null
     }

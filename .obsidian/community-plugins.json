@@ -8,5 +8,12 @@
   "initiative-tracker",
   "obsidian-excalidraw-plugin",
   "obsidian-icons-plugin",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "folder-note-core",
+  "alx-folder-note",
+  "media-extended",
+  "templater-obsidian",
+  "workspaces-plus",
+  "dbfolder",
+  "dataview"
 ]

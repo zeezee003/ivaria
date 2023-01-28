@@ -11,12 +11,12 @@
   "results": {},
   "defaultRoll": 1,
   "defaultFace": 100,
-  "renderer": false,
+  "renderer": true,
   "renderAllDice": true,
   "renderTime": 2000,
-  "diceColor": "#202020",
+  "diceColor": "#8c00ff",
   "textColor": "#ffffff",
   "showLeafOnStartup": true,
   "showDice": true,
-  "round": "Up"
+  "round": "Normal"
 }
